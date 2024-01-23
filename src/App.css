@@ -1,3 +1,10 @@
 .buttons{
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+*{
+  text-align: center;
+ background-color: rgb(138, 188, 13);
 }
